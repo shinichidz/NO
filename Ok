@@ -54,7 +54,7 @@ Logo.Name = "YoutubeLogo"
 Logo.Size = UDim2.new(0, 40, 0, 40)
 Logo.Position = UDim2.new(0, 10, 0, 10)
 Logo.BackgroundTransparency = 1
-Logo.Image = "http://www.roblox.com/asset/?id=74685297119537" -- Logo YouTube của bạn
+Logo.Image = "http://www.roblox.com/asset/?id=120228163602502" -- Logo YouTube của bạn
 Logo.ImageTransparency = 1
 Logo.Parent = MainFrame
 
@@ -113,7 +113,7 @@ PoweredBy.Size = UDim2.new(0, 280, 0, 20)
 PoweredBy.Position = UDim2.new(0.5, 0, 0, 85)
 PoweredBy.AnchorPoint = Vector2.new(0.5, 0)
 PoweredBy.BackgroundTransparency = 1
-PoweredBy.Text = "Script Powered By HieuDz * DuckNoVis"
+PoweredBy.Text = "By baor "
 PoweredBy.Font = Enum.Font.SourceSansItalic
 PoweredBy.TextSize = 12
 PoweredBy.TextColor3 = Color3.fromRGB(180, 180, 255)
@@ -248,7 +248,7 @@ ScreenGui:Destroy()
 --         pcall(v422);
 --     end
 -- end);
-local v14 = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))();
+local v14 = loadstring(game:HttpGet("https://raw.githubusercontent.com/cafehepho300/MaruCrack/main/Theme"))();
 local v15 = v14:CreateWindow({
     Title = "Donki Roblox",
     SubTitle = "Blox Fruit V2",
@@ -2570,7 +2570,7 @@ v23.BorderSizePixel = 0;
 v23.Position = UDim2.new(0.120833337 - 0.1, 0, 0.0952890813 + 0.01, 0);
 v23.Size = UDim2.new(0, 50, 0, 50);
 v23.Draggable = true;
-v23.Image = "http://www.roblox.com/asset/?id=74685297119537";
+v23.Image = "http://www.roblox.com/asset/?id=120228163602502";
 v24.Parent = v23;
 v24.CornerRadius = UDim.new(0, 12);
 v25.Parent = v23;
@@ -2617,7 +2617,7 @@ v16.Home:AddButton({
     Title = "Discord",
     Description = "Click để tham gia Discord của chúng tôi!",
     Callback = function()
-        setclipboard("https://discord.gg/wwJGMsk8q6")
+        setclipboard("https://discord.gg/s7MwmrFHWt")
         game:GetService("StarterGui"):SetCore("SendNotification", {
             Title = "Đã sao chép link Discord!",
             Text = "Dán link vào trình duyệt để tham gia nhé!",
@@ -2627,9 +2627,9 @@ v16.Home:AddButton({
 })
 v16.Home:AddButton({
     Title = "YouTube",
-    Description = "Click để xem kênh YouTube của Ducknovis!",
+    Description = "Click để xem kênh YouTube ",
     Callback = function()
-        setclipboard("https://www.youtube.com/@ductrenyt")
+        setclipboard("https://youtube.com/@donki_roblox?si=WKl4anho7PPCg6OF")
         game:GetService("StarterGui"):SetCore("SendNotification", {
             Title = "Đã sao chép link YouTube!",
             Text = "Dán link vào trình duyệt để xem kênh nhé!",
@@ -2638,8 +2638,8 @@ v16.Home:AddButton({
     end
 })
 v16.Home:AddParagraph({
-    Title = "Created By Team Coder:",
-    Content = "HieuDz * DuckNoVis",
+    Title = "Hi",
+    Content = "Hãy Vào Discord Và YouTube Để Update Nhiều Hơn!",
 });
 
 local ExecutorLevel = v16.Home:AddParagraph({
