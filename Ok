@@ -1,16 +1,8 @@
 --[[
 
-From: Noguchi Hyuga
-- Website: iamkhnah.github.io/noguchihyuga/index.html 
-- Facebook Founder: fb.com/p.khnah.itonltz
-- Discord Server: https://discord.gg/836PgY82J4
+From Baor
 
---// Lưu Ý:
-- Không Được Share Hay Crack Mã Nguồn Này Cho Ai!
-- Chúng Tôi Không Nhận Hỗ Trợ Những Mã Nguồn Miễn Phí, Xin Đừng Bảo Vì Sao.
-- Nếu Bạn Edit Source Và Up Web Share Nhớ Obfuscate Script. Nếu Bạn Có Tiền Thì Sử Dụng: Lura.Ph, Luarmor.Net | Nếu Bạn Không Có Tiền Thì Dùng: luaobfuscate.com, MoonSec, 77Fuscate,... Nhé!
-
-]]--
+]]--hi
 
 if  not LPH_OBFUSCATED then
 	function LPH_JIT_MAX(...)
